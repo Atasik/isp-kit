@@ -47,6 +47,8 @@ require (
 	gopkg.in/yaml.v3 v3.0.1
 )
 
+replace github.com/txix-open/jsonschema => github.com/invopop/jsonschema v0.12.0
+
 require (
 	github.com/bahlo/generic-list-go v0.2.0 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
